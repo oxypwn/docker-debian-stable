@@ -1,4 +1,4 @@
-CKER-VERSION 0.9.0
+DOCKER-VERSION 0.9.0
 FROM debian:jessie
 MAINTAINER Paul Andrew Liljenberg <letters@paulnotcom.se>
 
